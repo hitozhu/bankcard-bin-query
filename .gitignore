@@ -1,0 +1,23 @@
+logs/
+**/target/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+*.class
+*classes
+/*/bin
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.log
+*.iml
+*.ipr
+*.DS_Store
+.DS_Store
+/~$mi-p2p.docx
+logs
